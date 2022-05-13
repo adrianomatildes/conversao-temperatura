@@ -19,7 +19,7 @@ Este laboratório tem o objetivo de containerizar uma aplicação JAVASCRIPT, es
 ## Resultado da aplicação containerizada
 
 <div align="center">
-  <img src="![temperatura](https://user-images.githubusercontent.com/68225621/168347064-cb454ea9-b55c-47ae-a042-53231de935bd.png)" width="400px" />
+  <img src="(https://user-images.githubusercontent.com/68225621/168347064-cb454ea9-b55c-47ae-a042-53231de935bd.png)" width="400px" />
 </div>
 
 ## Autor
